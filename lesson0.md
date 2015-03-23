@@ -1,23 +1,25 @@
-# Basic Movement
+# Lesson 0
+
+## Basic Movement
 - `C-f` move cursor forward by one character
 - `C-b` move cursor backward by one character
 - `M-f` move cursor forward by one word
 - `M-b` move cursor backward by one word
 
-# Deleting
+## Deleting
 - `C-d` to delete a single character
 - `M-Backspace` to delete word before cursor
 - `M-d` to delete word after cursor
 
-# Cut and Paste
+## Cut and Paste
 - `C-k` to cut anything after the cursor
 - `C-y` to paste
 
-# Undo
+## Undo
 `C-_`
 
-# Clearing the screen
+## Clearing the screen
 `C-l`
 
-# Last words
+## Last words
 `<tab>` is your best friend
