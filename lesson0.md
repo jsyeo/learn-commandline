@@ -18,3 +18,6 @@
 
 # Clearing the screen
 `C-l`
+
+# Last words
+`<tab>` is your best friend
