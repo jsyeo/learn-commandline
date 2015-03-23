@@ -12,5 +12,5 @@ Ensure that your left alt key is emulating Esc. Go to iterm and enter ⌘-, to b
 
 See https://support.apple.com/en-us/ht201236
 
-C is ctrl.
-M is alt/meta.
+- C is ctrl.
+- M is alt/meta.
